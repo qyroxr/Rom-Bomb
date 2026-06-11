@@ -19,7 +19,7 @@ Aracı kullanmak istediğiniz işletim sistemine uygun adımları takip edin.
 ```bash
 pkg update && pkg upgrade -y
 pkg install git python -y
-git clone https://github.com
+git clone https://github.com/qyroxr/Rom-Bomb.git
 cd Rom-Bomb
 pip3 install -r requirements.txt
 python3 rom.py
@@ -32,7 +32,7 @@ python3 rom.py
 ```bash
 sudo apt update && sudo apt upgrade -y
 sudo apt install git python3 python3-pip -y
-git clone https://github.com
+git clone https://github.com/qyroxr/Rom-Bomb.git
 cd Rom-Bomb
 pip3 install -r requirements.txt
 python3 rom.py
@@ -43,7 +43,7 @@ python3 rom.py
 ### 3. Windows Kurulumu
 
 ```bash
-git clone https://github.com
+git clone https://github.com/qyroxr/Rom-Bomb.git
 cd Rom-Bomb
 pip install -r requirements.txt
 python rom.py
@@ -56,7 +56,7 @@ python rom.py
 ```bash
 apk update
 apk add git python3 py3-pip build-base python3-dev
-git clone https://github.com
+git clone https://github.com/qyroxr/Rom-Bomb.git
 cd Rom-Bomb
 pip3 install -r requirements.txt
 python3 rom.py
