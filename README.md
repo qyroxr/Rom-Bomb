@@ -3,7 +3,7 @@ BU ŞEKİLDİR TURBO MOD ARALIKSIZ GÖNDERİR DİYERİNDE MİKTAR
 ## 📸 Screenshotlar
 
 ### 1. Görüntü
-![SS1](images/ss1.png)
+![RomBomb](images/ss1.png?v=2)
 
 ### 2. Görüntü
 ![SS2](images/ss2.png)
